@@ -32,9 +32,10 @@
 ## 📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ayushhh-here&show_icons=true&theme=tokyonight&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhh-here&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=ayushhh-here&theme=dark&hide_border=true)
 
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhh-here&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=ayushhh-here&theme=dark&hide_border=true)
 
 
 cheers !!!
