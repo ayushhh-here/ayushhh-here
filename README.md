@@ -1,9 +1,6 @@
 <div align="center">
 
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=ff4500&height=200&section=header&text=Ayushhh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WebDev%20%7C%20LLM%20%7C%20Systems&descAlignY=60&descAlign=50)
-
-
 # I'm Ayushhh
 ### アユシュ
 
