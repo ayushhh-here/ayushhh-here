@@ -8,9 +8,9 @@
 
 **WebDev / LLM / Systems**
 
-**Currently learning** AI & LLM Engineering
+**Currently learning** FULL STACK,AI & LLM Engineering
 
-**Grinding** LeetCode
+**Grinding** LeetCode,CodeForces
 
 </div>
 
