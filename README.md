@@ -12,9 +12,6 @@
 
 **WebDev / LLM / Systems**
 
-**Currently learning** FULL STACK,AI & LLM Engineering
-
-**Grinding** LeetCode,CodeForces
 
 </div>
 
