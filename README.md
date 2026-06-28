@@ -4,7 +4,7 @@
 # I'm Ayushhh
 ### アユシュ
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=WebDev+%7C+LLM+%7C+Systems;Building+cool+stuff+🔥;Grinding+LeetCode+%26+CodeForces)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=WebDev+%7C+LLM+%7C+Systems;Building;Grinding+LeetCode+%26+CodeForces)](https://git.io/typing-svg)
 
 
 
