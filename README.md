@@ -38,4 +38,12 @@
 ![Streak](https://streak-stats.demolab.com?user=ayushhh-here&theme=dark&hide_border=true)
 
 
+
+
+![snake](https://raw.githubusercontent.com/ayushhh-here/ayushhh-here/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+
 cheers !!!
