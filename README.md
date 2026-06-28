@@ -3,8 +3,7 @@
 # I'm Ayushhh
 ### アユシュ
 
-<!-- Replace this with your own banner image made on Canva -->
-![banner](./banner.png)
+https://camo.githubusercontent.com/1771a972e4218ac596b496162144ed940263caf54bb0029ba7106261faec5b34/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38342f36362f37372f38343636373762653538306132356462613430346265353962646138636636302e676966
 
 **WebDev / LLM / Systems**
 
