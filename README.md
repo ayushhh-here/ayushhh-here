@@ -33,7 +33,8 @@
 
 ## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ayushhh-here&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-stats-alpha.vercel.app/api?username=ayushhh-here&cc=000&tc=fff&ic=fff&bc=000)
+
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhh-here&layout=compact&theme=tokyonight&hide_border=true)
 
