@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# I'm Ayushhh
+# I'm Ayush
 ### アユシュ
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=WebDev+%7C+LLM+%7C+Systems;Building)](https://git.io/typing-svg)
